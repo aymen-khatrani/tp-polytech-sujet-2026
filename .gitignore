@@ -7,8 +7,8 @@ __pycache__/
 *.pyc
 
 # Données et entrepôt : régénérables, jamais committés (cf. README)
-bronze/
-warehouse.duckdb
+#bronze/
+#warehouse.duckdb
 
 # Outillage local
 CLAUDE.md
