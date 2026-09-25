@@ -1,5 +1,15 @@
+# Environnements virtuels
 venv/
+.venv/
+
+# Python
 __pycache__/
 *.pyc
+
+# Données et entrepôt : régénérables, jamais committés (cf. README)
 bronze/
 warehouse.duckdb
+
+# Outillage local
+CLAUDE.md
+.claude/
